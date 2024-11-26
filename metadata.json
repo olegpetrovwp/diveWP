@@ -1,0 +1,9 @@
+{
+    "version": "1.0.2",
+    "tested": "6.4",
+    "requires_php": "7.4",
+    "url": "https://divewp.com",
+    "sections": {
+        "changelog": "Version 1.0.2 updates"
+    }
+}

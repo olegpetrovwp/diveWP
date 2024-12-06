@@ -1,9 +1,9 @@
 {
     "version": "1.0.4",
-    "tested": "6.4",
+    "tested": "6.4.3",
     "requires_php": "7.4",
-    "url": "https://divewp.com",
+    "last_updated": "2024-01-20",
     "sections": {
-        "changelog": "Version 1.0.2 updates"
+        "changelog": "Added Theme Builder Insights class for comprehensive theme and page builder analysis"
     }
 }

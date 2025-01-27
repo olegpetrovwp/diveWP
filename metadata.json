@@ -1,9 +1,9 @@
 {
-    "version": "1.0.4",
+    "version": "2.0.0",
     "tested": "6.4.3",
     "requires_php": "7.4",
-    "last_updated": "2024-01-20",
+    "last_updated": "2025-01-27",
     "sections": {
-        "changelog": "Added Theme Builder Insights class for comprehensive theme and page builder analysis"
+        "changelog": "Amazing new redesign and new features!"
     }
 }

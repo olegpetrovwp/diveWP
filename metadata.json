@@ -1,9 +1,9 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "tested": "6.4.3",
     "requires_php": "7.4",
     "last_updated": "2025-01-27",
     "sections": {
-        "changelog": "Amazing new redesign and new features!"
+        "changelog": "Bug fixes and improvements based on your feedback!"
     }
 }
